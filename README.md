@@ -29,6 +29,8 @@ pip install -r requirements.txt
 ```bash
 /setup <client_id> <client_secret> <username> <password>
 ```
+Replace <client_id>, <client_secret>, <username>, and <password> with their respective values.
+
 5. Run the bot.
 ```bash
 python main.py 
